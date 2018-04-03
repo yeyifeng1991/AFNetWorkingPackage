@@ -11,7 +11,6 @@
 @class XYHttpManager;
 
 
-
 //block回调传值
 /**
  *   请求成功回调json数据
